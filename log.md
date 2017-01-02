@@ -13,6 +13,13 @@ Getting back [Vuejs + GDrive](https://github.com/tralves/vue-gdrive) project goi
 **Link to work:** [Vuejs + GDrive](https://github.com/tralves/vue-gdrive)
 
 
+### Day 2: Jan 2, 2017
+
+**Today's Progress**: 
+Fixed [issue #6](https://github.com/tralves/raspi-soft-pwm/issues/6) in [raspi-soft-pwm](https://github.com/tralves/raspi-soft-pwm). Bumped lib version to 2.0.2.
+
+**Link to work:** [raspi-soft-pwm](https://github.com/tralves/raspi-soft-pwm)
+
 <!---
 ### Day 1: June 27, Monday
 
