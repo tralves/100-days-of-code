@@ -20,6 +20,13 @@ Fixed [issue #6](https://github.com/tralves/raspi-soft-pwm/issues/6) in [raspi-s
 
 **Link to work:** [raspi-soft-pwm](https://github.com/tralves/raspi-soft-pwm)
 
+### Day 3: Jan 3, 2017
+
+**Today's Progress**: Solving bug in JS testing where asserts in one test are being executed in another test.
+Testing [Weex-Hakernews](https://github.com/weexteam/weex-hackernews). A Weex+Vue2 demo project!
+
+**Thoughts** Testing JS is hard...
+
 <!---
 ### Day 1: June 27, Monday
 
