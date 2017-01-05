@@ -31,6 +31,14 @@ Testing [Weex-Hakernews](https://github.com/weexteam/weex-hackernews). A Weex+Vu
 
 **Today's Progress**: Tests now work accordingly.
 
+"Unforked" this project so editing this log counts as contributions. Yesterday I did relevant coding, but it did't count as contributions because I commited to a `dev` branch and to a forked project, which doesn't make the day green...
+
+How to "unfork" a project:
+
+1. `git clone --bare https://github.com/tralves/100-days-of-code`
+2. Deleted original repository in https://github.com/tralves/100-days-of-code/settings.
+3. `cd 100-days-of-code.git` and `git push --mirror https://github.com/tralves/100-days-of-code`
+
 **Thoughts** Testing JS is still hard... There seems to be a lot of interest around Weex. I could make a small test app in Weex...
 
 <!---
