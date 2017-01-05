@@ -27,6 +27,12 @@ Testing [Weex-Hakernews](https://github.com/weexteam/weex-hackernews). A Weex+Vu
 
 **Thoughts** Testing JS is hard...
 
+### Day 4: Jan 4, 2017
+
+**Today's Progress**: Tests now work accordingly.
+
+**Thoughts** Testing JS is still hard... There seems to be a lot of interest around Weex. I could make a small test app in Weex...
+
 <!---
 ### Day 1: June 27, Monday
 
