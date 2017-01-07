@@ -41,9 +41,13 @@ How to "unfork" a project:
 
 **Thoughts** Testing JS is still hard... There seems to be a lot of interest around Weex. I could make a small test app in Weex...
 
-### Day 5: Jan 4, 2017
+### Day 5: Jan 5, 2017
 
 **Today's Progress**: Finished tests for CreateOpenFileDialog.js.
+
+### Day 6: Jan 6, 2017
+
+**Today's Progress**: Vuex2 in PageHeader.vue and App.vue. Change url on file create/load.
 
 <!---
 ### Day 1: June 27, Monday
