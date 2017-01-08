@@ -49,6 +49,12 @@ How to "unfork" a project:
 
 **Today's Progress**: Vuex2 in PageHeader.vue and App.vue. Change url on file create/load.
 
+### Day 7: Jan 7, 2017
+
+**Today's Progress**: Fixed share button. Started refactor to use service classes instead of spreading logic in the components and actions.
+
+**Thoughts** Don't mock wht you don't own! [see this video](https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwiixMCz1LHRAhVGiZAKHQFYCqgQFggxMAM&url=https%3A%2F%2Fadamwathan.me%2F2017%2F01%2F02%2Fdont-mock-what-you-dont-own%2F&usg=AFQjCNGxU7uhDPvLSN0S1lK9fg9f2uujVw&sig2=eqoZLCVRRBln8fXW37IHIg)
+
 <!---
 ### Day 1: June 27, Monday
 
