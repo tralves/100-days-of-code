@@ -55,6 +55,12 @@ How to "unfork" a project:
 
 **Thoughts** Don't mock wht you don't own! [see this video](https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwiixMCz1LHRAhVGiZAKHQFYCqgQFggxMAM&url=https%3A%2F%2Fadamwathan.me%2F2017%2F01%2F02%2Fdont-mock-what-you-dont-own%2F&usg=AFQjCNGxU7uhDPvLSN0S1lK9fg9f2uujVw&sig2=eqoZLCVRRBln8fXW37IHIg)
 
+### Day 8: Jan 8, 2017
+
+**Today's Progress**: Developing services/file. 
+
+**Thoughts** Testing with JS is hard mostly because the errors are very cryptic. Today, the problem was testing a function that returns a promise. Nailed it thanks to [this article](https://www.sitepoint.com/promises-in-javascript-unit-tests-the-definitive-guide/).
+
 <!---
 ### Day 1: June 27, Monday
 
