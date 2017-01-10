@@ -61,6 +61,12 @@ How to "unfork" a project:
 
 **Thoughts** Testing with JS is hard mostly because the errors are very cryptic. Today, the problem was testing a function that returns a promise. Nailed it thanks to [this article](https://www.sitepoint.com/promises-in-javascript-unit-tests-the-definitive-guide/).
 
+### Day 9: Jan 9, 2017
+
+**Today's Progress**: Finished services/file. With unit testing!
+
+**Thoughts** Starting to rip some fruits of TDD. Helped doing several refactors to services/file.
+
 <!---
 ### Day 1: June 27, Monday
 
