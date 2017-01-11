@@ -67,6 +67,16 @@ How to "unfork" a project:
 
 **Thoughts** Starting to rip some fruits of TDD. Helped doing several refactors to services/file.
 
+### Day 10: Jan 10, 2017
+
+**Today's Progress**: Refactored side menu to its own component. A bit of test refactoring.
+
+**Thoughts** The `services/file.js` is a nice helper between the components and actions to manage some complex operations. I decided not to use it for *every* operation just for the sake of creating yet another layer. Some operations already go through:
+```
+Component > service > action > mutation
+```
+4 layers!
+
 <!---
 ### Day 1: June 27, Monday
 
