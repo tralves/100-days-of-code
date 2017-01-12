@@ -77,6 +77,16 @@ Component > service > action > mutation
 ```
 4 layers!
 
+### Day 11: Jan 11, 2017
+
+**Today's Progress**: Refactored side menu to its own component. A bit of test refactoring.
+I got the realtime collaboration working on my project! 
+
+**Thoughts** It was hard, google documentation sucks a bit, but I did it!
+In one night (it's 4am here), after a day of coding and leading youth group.
+
+I deserve the rest of the brave. Good night!
+
 <!---
 ### Day 1: June 27, Monday
 
