@@ -87,6 +87,10 @@ In one night (it's 4am here), after a day of coding and leading youth group.
 
 I deserve the rest of the brave. Good night!
 
+### Day 12: Jan 12, 2017
+
+**Today's Progress**: Since yesterday I stayed up to 4am, today, I just read de Google Realtime API in preparation for future developments.
+
 <!---
 ### Day 1: June 27, Monday
 
