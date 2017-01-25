@@ -91,6 +91,23 @@ I deserve the rest of the brave. Good night!
 
 **Today's Progress**: Since yesterday I stayed up to 4am, today, I just read de Google Realtime API in preparation for future developments.
 
+### Day 13: Jan 17, 2017
+
+**Today's Progress**: I'm on vacations (sunny beach, coconut water, etc.)! Still, I found some time to develop the bitcoin-bargainer!
+
+The bitcoin-bargainer is a node service that monitors the bitcointoyou buy/sell prices in order to determine moments to buy/sell bitcoins. The idea was to take advantage of the rapid fluctuations in bitcoin value. The service will start with 0.1BTC and will sell it when it will make more money than the initial value. Then it will buy BTC, then sell, then buy, etc.
+
+
+### Day 14: Jan 18, 2017
+
+**Today's Progress**: Some improvements on the bitcoin-bargainer. Better logs, bug fixes. 
+
+**Thoughts** Turns out that the btc price doesn't fluctuate that much... It never triggers pruchases/sales. :(
+
+### Day 15: Jan 25, 2017
+
+**Today's Progress**: Adapted the bitcoin bargainer to accept parameters determine the initial BTC value and choose whether to use trade BTC or Litecoin.
+
 <!---
 ### Day 1: June 27, Monday
 
