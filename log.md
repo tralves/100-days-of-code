@@ -104,9 +104,15 @@ The bitcoin-bargainer is a node service that monitors the bitcointoyou buy/sell 
 
 **Thoughts** Turns out that the btc price doesn't fluctuate that much... It never triggers pruchases/sales. :(
 
-### Day 15: Jan 25, 2017
+### Day 15: Jan 24, 2017
 
 **Today's Progress**: Adapted the bitcoin bargainer to accept parameters determine the initial BTC value and choose whether to use trade BTC or Litecoin.
+
+### Day 16: Jan 25, 2017
+
+**Today's Progress**: Back to the [Vuejs + GDrive](https://github.com/tralves/vue-gdrive) project! Cleaned a bit of the realtime hacked code. Realtime now works when creating the file. Fixed tests.
+
+**Thoughts** I am not happy with my tests. They are too verbose and too tight to the implementation. Hum... I wonder if they would be better if I had Dependency Injection... Why is it so much easier in Laravel?!
 
 <!---
 ### Day 1: June 27, Monday
