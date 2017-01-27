@@ -114,6 +114,14 @@ The bitcoin-bargainer is a node service that monitors the bitcointoyou buy/sell 
 
 **Thoughts** I am not happy with my tests. They are too verbose and too tight to the implementation. Hum... I wonder if they would be better if I had Dependency Injection... Why is it so much easier in Laravel?!
 
+### Day 17: Jan 26, 2017
+
+**Today's Progress**: My wife forbid my from doing anything after 1am. Still, I read somethings about Dependency Injection and gave a lot of thought about the arquitecture of the app. That `services/files` and `actions.js` are very interdependent and they both use the GAPI... it smells...
+
+### Day 18: Jan 27, 2017
+
+**Today's Progress**: Started a small Slack bot project that sends "#TRIGGERED" when someone says something on a channel that should trigger me. Using Laravel and Valet.
+
 <!---
 ### Day 1: June 27, Monday
 
