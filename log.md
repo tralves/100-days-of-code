@@ -126,6 +126,8 @@ The bitcoin-bargainer is a node service that monitors the bitcointoyou buy/sell 
 
 **Today's Progress**: Back to the Vue GDrive thing. Working on saving the document and synchronizing the realtime model with the GDrive file.
 
+**Thoughts** The Realtime document is always updated, so I am using it as the primary source of truth. Then, the session that makes a change will save to the gdrive after some idle time.
+
 <!---
 ### Day 1: June 27, Monday
 
