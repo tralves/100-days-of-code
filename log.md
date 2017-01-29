@@ -122,6 +122,10 @@ The bitcoin-bargainer is a node service that monitors the bitcointoyou buy/sell 
 
 **Today's Progress**: Started a small Slack bot project that sends "#TRIGGERED" when someone says something on a channel that should trigger me. Using Laravel and Valet.
 
+### Day 19: Jan 28, 2017
+
+**Today's Progress**: Back to the Vue GDrive thing. Working on saving the document and synchronizing the realtime model with the GDrive file.
+
 <!---
 ### Day 1: June 27, Monday
 
