@@ -128,6 +128,10 @@ The bitcoin-bargainer is a node service that monitors the bitcointoyou buy/sell 
 
 **Thoughts** The Realtime document is always updated, so I am using it as the primary source of truth. Then, the session that makes a change will save to the gdrive after some idle time.
 
+### Day 20: Jan 30, 2017
+
+**Today's Progress**: Renaming files with realtime sync.
+
 <!---
 ### Day 1: June 27, Monday
 
