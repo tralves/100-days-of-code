@@ -132,6 +132,10 @@ The bitcoin-bargainer is a node service that monitors the bitcointoyou buy/sell 
 
 **Today's Progress**: Renaming files with realtime sync.
 
+### Day 21: Feb 1, 2017
+
+**Today's Progress**: Retrieve realtime collaborators, and keep them synced in the vuex store.
+
 <!---
 ### Day 1: June 27, Monday
 
