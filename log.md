@@ -146,6 +146,10 @@ The bitcoin-bargainer is a node service that monitors the bitcointoyou buy/sell 
 
 **Today's Progress**: Creating and managing cursor mapping. Synchronizing a list of cursors to the Vuex store.
 
+### Day 24: Feb 6, 2017
+
+**Today's Progress**: Drawing the cursors.
+
 <!---
 ### Day 1: June 27, Monday
 
