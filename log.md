@@ -150,6 +150,10 @@ The bitcoin-bargainer is a node service that monitors the bitcointoyou buy/sell 
 
 **Today's Progress**: Drawing the cursors.
 
+### Day 25: Feb 6, 2017
+
+**Today's Progress**: Added tooltip to cursors.
+
 <!---
 ### Day 1: June 27, Monday
 
