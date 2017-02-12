@@ -162,6 +162,19 @@ The bitcoin-bargainer is a node service that monitors the bitcointoyou buy/sell 
 
 **Today's Progress**: Fixed path bugs when the app in not in the root of the domain.
 
+### Day 27: Feb 11, 2017
+
+**Today's Progress**: Fixed file rename, ask fewer permissions, improved error feedback. Aaaaand Vue-gdrive finished! (for now). The phase 1 of the project is now concluded. [Vuejs + GDrive](https://github.com/tralves/vue-gdrive) is a simple text editor with collaboration! When/if I have more time, I would like to:
+
+- Add funcionality to save to a specific folder;
+- Reduce coupling of the modules `GapiIntegration`, `services/file.js` and `actions.js`;
+- Better test coverage...
+
+Starting phase 2: making a collaborative markdown editor. To complete this project, I will grab [Vuejs + GDrive](https://github.com/tralves/vue-gdrive) and then:
+
+- Configure new google drive app to edit markdown files (.md);
+- Add markdown render;
+
 <!---
 ### Day 1: June 27, Monday
 
