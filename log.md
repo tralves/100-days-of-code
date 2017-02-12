@@ -158,7 +158,7 @@ The bitcoin-bargainer is a node service that monitors the bitcointoyou buy/sell 
 
 **Today's Progress**: Fixed synchronization and GAPI issues.
 
-### Day 26: Feb 9, 2017
+### Day 27: Feb 11, 2017
 
 **Today's Progress**: Fixed path bugs when the app in not in the root of the domain.
 
