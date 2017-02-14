@@ -162,7 +162,7 @@ The bitcoin-bargainer is a node service that monitors the bitcointoyou buy/sell 
 
 **Today's Progress**: Fixed path bugs when the app in not in the root of the domain.
 
-### Day 28: Feb 11, 2017
+### Day 28: Feb 12, 2017
 
 **Today's Progress**: Fixed file rename, ask fewer permissions, improved error feedback. Aaaaand Vue-gdrive finished! (for now). The phase 1 of the project is now concluded. [Vuejs + GDrive](https://github.com/tralves/vue-gdrive) is a simple text editor with collaboration! When/if I have more time, I would like to:
 
@@ -175,7 +175,7 @@ Starting phase 2: making a collaborative markdown editor. To complete this proje
 - Configure new google drive app to edit markdown files (.md)- DONE!;
 - Add markdown render;
 
-### Day 29: Feb 11, 2017
+### Day 29: Feb 13, 2017
 
 **Today's Progress**: Added the markdown parser and the project is finished (for now). 
 
@@ -183,6 +183,10 @@ Starting phase 2: making a collaborative markdown editor. To complete this proje
 
 **Link(s) to work**
 1. [Collaborative Markdown Editor](https://tralves.github.io/collaborative-markdown-editor)
+
+### Day 30: Feb 14, 2017
+
+**Today's Progress**: Starting new weex project. Writting a Hello World app and writting a medium post.
 
 <!---
 ### Day 1: June 27, Monday
