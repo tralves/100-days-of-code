@@ -175,6 +175,15 @@ Starting phase 2: making a collaborative markdown editor. To complete this proje
 - Configure new google drive app to edit markdown files (.md)- DONE!;
 - Add markdown render;
 
+### Day 29: Feb 11, 2017
+
+**Today's Progress**: Added the markdown parser and the project is finished (for now). 
+
+**Thoughts** There are lot's of things to fix/add/improve. Maybe I could turn this into a real usable product! But for now, I'll leave it at that... Time for the next project: something in Weex!
+
+**Link(s) to work**
+1. [Collaborative Markdown Editor](https://tralves.github.io/collaborative-markdown-editor)
+
 <!---
 ### Day 1: June 27, Monday
 
