@@ -190,10 +190,13 @@ Starting phase 2: making a collaborative markdown editor. To complete this proje
 
 **Thoughts** Gotta make a Medium post out of this... Weex is just starting, with most of the devs and docs being in China. There is an opportunity to help this project in the western world. I know Vue and have developed both android and iOS native apps. I am the man for the job... Weex is gonna be YUGE!
 
-### Day 31: Feb 14, 2017
+### Day 31: Feb 15, 2017
 
-**Today's Progress**: Continue pushing the Weex project. Testing storage methods.
+**Today's Progress**: Continue pushing the Weex project. Reading about `weex-toolkit`.
 
+### Day 32: Feb 16, 2017
+
+**Today's Progress**: Continue pushing the Weex project. Experimenting with `weex-pack`.
 <!---
 ### Day 1: June 27, Monday
 
