@@ -197,6 +197,11 @@ Starting phase 2: making a collaborative markdown editor. To complete this proje
 ### Day 32: Feb 16, 2017
 
 **Today's Progress**: Continue pushing the Weex project. Experimenting with `weex-pack`.
+
+### Day 33: Feb 17, 2017
+
+**Today's Progress**: Continuing experimenting with `weex-pack`. The most updated branch seems to be `vue2.0`.
+
 <!---
 ### Day 1: June 27, Monday
 
