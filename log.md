@@ -216,8 +216,9 @@ Next steps:
 - write Medium post about the current state of Weex
 
 **Link(s) to work**
-Vid: https://www.youtube.com/watch?v=AMU0gXuEl_Y …
-GitHub: https://github.com/tralves/weex-todo-list …
+
+- Vid: https://www.youtube.com/watch?v=AMU0gXuEl_Y
+- GitHub: https://github.com/tralves/weex-todo-list
 
 <!---
 ### Day 1: June 27, Monday
