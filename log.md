@@ -202,6 +202,23 @@ Starting phase 2: making a collaborative markdown editor. To complete this proje
 
 **Today's Progress**: Continuing experimenting with `weex-pack`. The most updated branch seems to be `vue2.0`.
 
+### Day 34: Feb 22, 2017
+
+**Today's Progress**: Built a built a To-do app with Weex + Vue2.0! Currently it does not save the state and only works in android/web.
+
+**Thoughts** Gave up trying to find the correct way to create a weex project and just downloaded the hackernews weex app and hacked it.
+
+Next steps:
+
+- make it work in iOS;
+- save data in internal storage;
+- store data in the cloud (Firebase, maybe?)
+- write Medium post about the current state of Weex
+
+**Link(s) to work**
+Vid: https://www.youtube.com/watch?v=AMU0gXuEl_Y …
+GitHub: https://github.com/tralves/weex-todo-list …
+
 <!---
 ### Day 1: June 27, Monday
 
