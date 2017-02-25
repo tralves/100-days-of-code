@@ -226,6 +226,10 @@ Next steps:
 
 **Link(s) to work** The iOS demo video: https://www.youtube.com/watch?v=4L4ABYDhpsA
 
+### Day 36: Feb 25, 2017
+
+**Today's Progress**: Save/load the To do items in storage in the weex todo list.
+
 <!---
 ### Day 1: June 27, Monday
 
