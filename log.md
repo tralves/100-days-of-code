@@ -222,7 +222,9 @@ Next steps:
 
 ### Day 35: Feb 24, 2017
 
-**Today's Progress**: Pushing on the weex to do app. Making it work on iOS.
+**Today's Progress**: Pushing on the weex to do app. Fixed the iOS build.
+
+**Link(s) to work** The iOS demo video: https://www.youtube.com/watch?v=4L4ABYDhpsA
 
 <!---
 ### Day 1: June 27, Monday
