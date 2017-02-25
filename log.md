@@ -220,6 +220,10 @@ Next steps:
 - Vid: https://www.youtube.com/watch?v=AMU0gXuEl_Y
 - GitHub: https://github.com/tralves/weex-todo-list
 
+### Day 35: Feb 24, 2017
+
+**Today's Progress**: Pushing on the weex to do app. Making it work on iOS.
+
 <!---
 ### Day 1: June 27, Monday
 
