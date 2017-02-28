@@ -230,6 +230,10 @@ Next steps:
 
 **Today's Progress**: Save/load the To do items in storage in the weex todo list.
 
+### Day 37: Feb 27, 2017
+
+**Today's Progress**: Writting a Medium post about the state of weex.
+
 <!---
 ### Day 1: June 27, Monday
 
