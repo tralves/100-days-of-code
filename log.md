@@ -234,6 +234,10 @@ Next steps:
 
 **Today's Progress**: Writting a Medium post about the state of weex.
 
+### Day 38: Mar 1, 2017
+
+**Today's Progress**: Trying a new weex project with [incubator-weex](https://github.com/apache/incubator-weex) project. Scheduled the first Vue.js @ BH meetup!
+
 <!---
 ### Day 1: June 27, Monday
 
