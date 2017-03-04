@@ -238,9 +238,13 @@ Next steps:
 
 **Today's Progress**: Trying a new weex project with [incubator-weex](https://github.com/apache/incubator-weex) project. Scheduled the first Vue.js @ BH meetup!
 
-### Day 39: Mar 1, 2017
+### Day 39: Mar 3, 2017
 
 **Today's Progress**: Still trying to figure out [incubator-weex](https://github.com/apache/incubator-weex)... I don't even know what it does! :(
+
+### Day 40: Mar 4, 2017
+
+**Today's Progress**: Worked on the bitcoin-bargainer. It now stores information on an sqlite db and... IT IS NOW LIVE! It trades bitcoin with my REAL money!
 
 <!---
 ### Day 1: June 27, Monday
