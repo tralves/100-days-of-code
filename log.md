@@ -246,9 +246,16 @@ Next steps:
 
 **Today's Progress**: Worked on the bitcoin-bargainer. It now stores information on an sqlite db and... IT IS NOW LIVE! It trades bitcoin with my REAL money!
 
-### Day 41: Mar 3, 2017
+### Day 41: Mar 5, 2017
 
 **Today's Progress**: More tests with [incubator-weex](https://github.com/apache/incubator-weex) and weexpack.
+
+### Day 42: Mar 7, 2017
+
+**Today's Progress**: A little code pen of a procedural generated tree drawn and animated with canvas.
+
+**Link(s) to work**
+1. http://codepen.io/tralves/pen/EWgOxR
 
 <!---
 ### Day 1: June 27, Monday
