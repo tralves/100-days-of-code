@@ -257,6 +257,10 @@ Next steps:
 **Link(s) to work**
 1. http://codepen.io/tralves/pen/EWgOxR
 
+### Day 43: Mar 8, 2017
+
+**Today's Progress**: More tests with [incubator-weex](https://github.com/apache/incubator-weex) and weexpack.
+
 <!---
 ### Day 1: June 27, Monday
 
