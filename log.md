@@ -261,6 +261,14 @@ Next steps:
 
 **Today's Progress**: More tests with [incubator-weex](https://github.com/apache/incubator-weex) and weexpack.
 
+### Day 44: Mar 9, 2017
+
+**Today's Progress**: Registered domain (http://www.tiagoalves.co) and set a site as a placeholder for something better. Also registered a Linode account. Interwebs, here I go!
+
+### Day 45: Mar 10, 2017
+
+**Today's Progress**: Fixed some bugs in the bit-bargainer.
+
 <!---
 ### Day 1: June 27, Monday
 
