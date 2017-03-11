@@ -269,6 +269,9 @@ Next steps:
 
 **Today's Progress**: Fixed some bugs in the bit-bargainer.
 
+### Day 46: Mar 11, 2017
+
+**Today's Progress**: created a linode machine. Moved bit-bargainer there. Configured nginx and php7.1.
 <!---
 ### Day 1: June 27, Monday
 
