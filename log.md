@@ -272,6 +272,11 @@ Next steps:
 ### Day 46: Mar 11, 2017
 
 **Today's Progress**: created a linode machine. Moved bit-bargainer there. Configured nginx and php7.1.
+
+### Day 47: Mar 12, 2017
+
+**Today's Progress**: Fixed bug in bit-bargainer. Worked on setting the first Vue.js @ Belo Horizonte meetup!
+
 <!---
 ### Day 1: June 27, Monday
 
