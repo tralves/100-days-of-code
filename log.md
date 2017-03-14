@@ -277,6 +277,10 @@ Next steps:
 
 **Today's Progress**: Fixed bug in bit-bargainer. Worked on setting the first Vue.js @ Belo Horizonte meetup!
 
+### Day 48: Mar 13, 2017
+
+**Today's Progress**: Learning more about weex. Inspecting and compiling WeexSDK.
+
 <!---
 ### Day 1: June 27, Monday
 
