@@ -279,7 +279,7 @@ Next steps:
 
 ### Day 48: Mar 13, 2017
 
-**Today's Progress**: Learning more about weex. Inspecting and compiling WeexSDK.
+**Today's Progress**: Learning more about weex. Inspecting and compiling WeexSDK. Collected some evidence in [this tweet](https://twitter.com/tiagoreisalves/status/841504371015860224)
 
 <!---
 ### Day 1: June 27, Monday
