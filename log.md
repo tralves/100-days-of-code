@@ -281,6 +281,9 @@ Next steps:
 
 **Today's Progress**: Learning more about weex. Inspecting and compiling WeexSDK. Collected some evidence in [this tweet](https://twitter.com/tiagoreisalves/status/841504371015860224)
 
+## Day 49: Mar 20, 2017
+
+**Today's Progress**: Learning more about weex. Someone has to make the tool to add native platforms to Vue 2 projects... That will be me...
 <!---
 ### Day 1: June 27, Monday
 
