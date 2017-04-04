@@ -284,6 +284,15 @@ Next steps:
 ## Day 49: Mar 20, 2017
 
 **Today's Progress**: Learning more about weex. Someone has to make the tool to add native platforms to Vue 2 projects... That will be me...
+
+## Day 50: Apr 2, 2017
+
+**Today's Progress**: Testing the weex tools. Setting up `weex-toolkit` and `weex-pack` in a way that I can develop locally.
+
+## Day 51: Apr 3, 2017
+
+**Today's Progress**: Making a Weex VueJS template, or die trying.
+
 <!---
 ### Day 1: June 27, Monday
 
