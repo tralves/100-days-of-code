@@ -293,6 +293,10 @@ Next steps:
 
 **Today's Progress**: Making a Weex VueJS template, or die trying.
 
+## Day 52: Apr 4, 2017
+
+**Today's Progress**: Testing yesterday's work. Merge latest changes to the correct branch PR.
+
 <!---
 ### Day 1: June 27, Monday
 
