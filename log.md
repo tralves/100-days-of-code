@@ -297,6 +297,28 @@ Next steps:
 
 **Today's Progress**: Testing yesterday's work. Merge latest changes to the correct branch PR.
 
+## Day 53: Apr 8, 2017
+
+**Today's Progress**: Studying weexpack. Started new vue-cli template.
+
+**Link(s) to work**
+[weex-vue template](https://github.com/tralves/weex-vue)
+
+## Day 54: Apr 9, 2017
+
+**Today's Progress**: Continued eex-vue template. Started writing medium post agout getting started.
+
+**Link(s) to work**
+https://medium.com/@tiagoreisalves/how-to-create-a-weex-vue2-project-6b94981bee4e
+
+## Day 55: Apr 10, 2017
+
+**Today's Progress**: Bug fixes in weex-vue template.
+
+## Day 56: Apr 11, 2017
+
+**Today's Progress**: Fixing weex-vue ios.
+
 <!---
 ### Day 1: June 27, Monday
 
