@@ -319,6 +319,10 @@ https://medium.com/@tiagoreisalves/how-to-create-a-weex-vue2-project-6b94981bee4
 
 **Today's Progress**: Fixing weex-vue ios.
 
+## Day 57: Apr 12, 2017
+
+**Today's Progress**: Understanding and fixing weex Android template generation.
+
 <!---
 ### Day 1: June 27, Monday
 
